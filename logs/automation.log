@@ -1,0 +1,186 @@
+11:20:58.652 [main] INFO  testCases.TC_LG_002LogOutTest - Starting Test case LG_002
+11:20:59.284 [main] INFO  testCases.TC_LG_002LogOutTest - Clicked on the login link
+11:20:59.406 [main] INFO  testCases.TC_LG_002LogOutTest - Login Data entered successfully
+11:21:43.879 [main] INFO  testCases.TC_LG_002LogOutTest - Starting Test case LG_002
+11:21:44.504 [main] INFO  testCases.TC_LG_002LogOutTest - Clicked on the login link
+11:21:44.819 [main] INFO  testCases.TC_LG_002LogOutTest - Login Data entered successfully
+11:21:50.252 [main] INFO  testCases.TC_LG_002LogOutTest - Logout Test executed
+13:35:42.949 [main] INFO  testCases.TC_002_LoginDataDriven -  Starting TC_003_LoginDataDrivenTest 
+13:35:44.149 [main] INFO  testCases.TC_002_LoginDataDriven -  Finished TC_003_LoginDataDrivenTest
+13:35:44.160 [main] INFO  testCases.TC_002_LoginDataDriven -  Starting TC_003_LoginDataDrivenTest 
+13:36:04.674 [main] INFO  testCases.TC_002_LoginDataDriven -  Finished TC_003_LoginDataDrivenTest
+13:36:04.676 [main] INFO  testCases.TC_002_LoginDataDriven -  Starting TC_003_LoginDataDrivenTest 
+13:36:25.161 [main] INFO  testCases.TC_002_LoginDataDriven -  Finished TC_003_LoginDataDrivenTest
+13:36:25.162 [main] INFO  testCases.TC_002_LoginDataDriven -  Starting TC_003_LoginDataDrivenTest 
+13:36:45.656 [main] INFO  testCases.TC_002_LoginDataDriven -  Finished TC_003_LoginDataDrivenTest
+13:36:45.657 [main] INFO  testCases.TC_002_LoginDataDriven -  Starting TC_003_LoginDataDrivenTest 
+13:41:38.267 [main] INFO  testCases.TC_002_LoginDataDriven -  Starting TC_003_LoginDataDrivenTest 
+13:41:39.204 [main] INFO  testCases.TC_002_LoginDataDriven -  Finished TC_003_LoginDataDrivenTest
+13:41:39.214 [main] INFO  testCases.TC_002_LoginDataDriven -  Starting TC_003_LoginDataDrivenTest 
+13:41:59.723 [main] INFO  testCases.TC_002_LoginDataDriven -  Finished TC_003_LoginDataDrivenTest
+13:41:59.729 [main] INFO  testCases.TC_002_LoginDataDriven -  Starting TC_003_LoginDataDrivenTest 
+13:42:20.254 [main] INFO  testCases.TC_002_LoginDataDriven -  Finished TC_003_LoginDataDrivenTest
+13:42:20.260 [main] INFO  testCases.TC_002_LoginDataDriven -  Starting TC_003_LoginDataDrivenTest 
+13:42:40.782 [main] INFO  testCases.TC_002_LoginDataDriven -  Finished TC_003_LoginDataDrivenTest
+13:42:40.784 [main] INFO  testCases.TC_002_LoginDataDriven -  Starting TC_003_LoginDataDrivenTest 
+13:42:41.539 [main] INFO  testCases.TC_002_LoginDataDriven -  Finished TC_003_LoginDataDrivenTest
+23:44:08.761 [main] INFO  testCases.TC_MonitorDetails - Starting Test case TC_MonitorDetails
+23:44:09.310 [main] INFO  testCases.TC_MonitorDetails - Clicked on the login link
+23:44:09.870 [main] INFO  testCases.TC_MonitorDetails - Login Data entered successfully
+23:44:29.920 [main] INFO  testCases.TC_MonitorDetails - All monitor Details found
+23:52:00.871 [main] INFO  testCases.TC_MonitorDetails - Starting Test case TC_MonitorDetails
+23:52:01.388 [main] INFO  testCases.TC_MonitorDetails - Clicked on the login link
+23:52:01.866 [main] INFO  testCases.TC_MonitorDetails - Login Data entered successfully
+23:52:22.173 [main] INFO  testCases.TC_MonitorDetails - All monitor Details found
+23:52:58.656 [main] INFO  testCases.TC_MonitorDetails - Starting Test case TC_MonitorDetails
+23:52:59.017 [main] INFO  testCases.TC_MonitorDetails - Clicked on the login link
+23:52:59.477 [main] INFO  testCases.TC_MonitorDetails - Login Data entered successfully
+23:53:20.210 [main] INFO  testCases.TC_MonitorDetails - All monitor Details found
+00:14:35.609 [main] INFO  testCases.TC_MonitorDetails - Starting Test case TC_MonitorDetails
+00:14:35.942 [main] INFO  testCases.TC_MonitorDetails - Clicked on the login link
+00:14:36.378 [main] INFO  testCases.TC_MonitorDetails - Login Data entered successfully
+00:15:07.112 [main] INFO  testCases.TC_MonitorDetails - All monitor Details found
+00:16:06.149 [main] INFO  testCases.TC_MonitorDetails - Starting Test case TC_MonitorDetails
+00:16:06.798 [main] INFO  testCases.TC_MonitorDetails - Clicked on the login link
+00:16:07.336 [main] INFO  testCases.TC_MonitorDetails - Login Data entered successfully
+00:16:37.951 [main] INFO  testCases.TC_MonitorDetails - All monitor Details found
+00:18:03.983 [main] INFO  testCases.TC_MonitorDetails - Starting Test case TC_MonitorDetails
+00:18:04.439 [main] INFO  testCases.TC_MonitorDetails - Clicked on the login link
+00:18:04.840 [main] INFO  testCases.TC_MonitorDetails - Login Data entered successfully
+00:18:35.409 [main] INFO  testCases.TC_MonitorDetails - All monitor Details found
+00:19:34.518 [main] INFO  testCases.TC_MonitorDetails - Starting Test case TC_MonitorDetails
+00:19:34.829 [main] INFO  testCases.TC_MonitorDetails - Clicked on the login link
+00:19:35.231 [main] INFO  testCases.TC_MonitorDetails - Login Data entered successfully
+00:20:05.812 [main] INFO  testCases.TC_MonitorDetails - All monitor Details found
+00:21:32.476 [main] INFO  testCases.TC_MonitorDetails - Starting Test case TC_MonitorDetails
+00:21:32.849 [main] INFO  testCases.TC_MonitorDetails - Clicked on the login link
+00:21:33.272 [main] INFO  testCases.TC_MonitorDetails - Login Data entered successfully
+00:22:03.885 [main] INFO  testCases.TC_MonitorDetails - All monitor Details found
+00:23:23.965 [main] INFO  testCases.TC_MonitorDetails - Starting Test case TC_MonitorDetails
+00:23:24.391 [main] INFO  testCases.TC_MonitorDetails - Clicked on the login link
+00:23:24.795 [main] INFO  testCases.TC_MonitorDetails - Login Data entered successfully
+00:23:35.382 [main] INFO  testCases.TC_MonitorDetails - All monitor Details found
+00:25:01.446 [main] INFO  testCases.TC_MonitorDetails - Starting Test case TC_MonitorDetails
+00:25:01.793 [main] INFO  testCases.TC_MonitorDetails - Clicked on the login link
+00:25:02.221 [main] INFO  testCases.TC_MonitorDetails - Login Data entered successfully
+00:25:12.796 [main] INFO  testCases.TC_MonitorDetails - All monitor Details found
+11:55:35.390 [main] INFO  testCases.TC_MonitorDetails - Starting Test case TC_MonitorDetails
+11:55:36.197 [main] INFO  testCases.TC_MonitorDetails - Clicked on the login link
+11:55:36.805 [main] INFO  testCases.TC_MonitorDetails - Login Data entered successfully
+11:55:47.660 [main] INFO  testCases.TC_MonitorDetails - All monitor Details found
+11:58:05.845 [main] INFO  testCases.TC_MonitorDetails - Starting Test case TC_MonitorDetails
+11:58:06.300 [main] INFO  testCases.TC_MonitorDetails - Clicked on the login link
+11:58:06.765 [main] INFO  testCases.TC_MonitorDetails - Login Data entered successfully
+11:58:17.467 [main] INFO  testCases.TC_MonitorDetails - All monitor Details found
+12:02:42.332 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting Test case 001
+12:02:42.785 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+12:02:43.293 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+12:02:43.304 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+12:03:19.370 [main] INFO  testCases.TC_002_LoginDataDriven -  Starting TC_003_LoginDataDrivenTest 
+12:03:20.342 [main] INFO  testCases.TC_002_LoginDataDriven -  Finished TC_003_LoginDataDrivenTest
+12:03:20.349 [main] INFO  testCases.TC_002_LoginDataDriven -  Starting TC_003_LoginDataDrivenTest 
+12:03:40.837 [main] INFO  testCases.TC_002_LoginDataDriven -  Finished TC_003_LoginDataDrivenTest
+12:03:40.841 [main] INFO  testCases.TC_002_LoginDataDriven -  Starting TC_003_LoginDataDrivenTest 
+12:04:01.361 [main] INFO  testCases.TC_002_LoginDataDriven -  Finished TC_003_LoginDataDrivenTest
+12:04:01.362 [main] INFO  testCases.TC_002_LoginDataDriven -  Starting TC_003_LoginDataDrivenTest 
+12:04:21.879 [main] INFO  testCases.TC_002_LoginDataDriven -  Finished TC_003_LoginDataDrivenTest
+12:04:21.881 [main] INFO  testCases.TC_002_LoginDataDriven -  Starting TC_003_LoginDataDrivenTest 
+12:04:22.645 [main] INFO  testCases.TC_002_LoginDataDriven -  Finished TC_003_LoginDataDrivenTest
+12:04:25.095 [main] INFO  testCases.TC_002_LogInTest - Starting Test case 002
+12:04:31.415 [main] INFO  testCases.TC_002_LogInTest - Logout Test executed
+12:04:33.751 [main] INFO  testCases.TC_LG_002LogOutTest - Starting Test case LG_002
+12:04:34.200 [main] INFO  testCases.TC_LG_002LogOutTest - Clicked on the login link
+12:04:34.575 [main] INFO  testCases.TC_LG_002LogOutTest - Login Data entered successfully
+12:04:40.073 [main] INFO  testCases.TC_LG_002LogOutTest - Logout Test executed
+12:04:42.321 [main] INFO  testCases.TC_MonitorDetails - Starting Test case TC_MonitorDetails
+12:04:42.701 [main] INFO  testCases.TC_MonitorDetails - Clicked on the login link
+12:04:43.083 [main] INFO  testCases.TC_MonitorDetails - Login Data entered successfully
+12:04:53.735 [main] INFO  testCases.TC_MonitorDetails - All monitor Details found
+13:44:33.397 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting Test case 001
+13:44:59.247 [main] INFO  testCases.TC_002_LogInTest - Starting Test case 002
+13:45:11.195 [main] INFO  testCases.TC_002_LogInTest - Logout Test executed
+13:45:23.197 [main] INFO  testCases.TC_LG_002LogOutTest - Starting Test case LG_002
+13:47:32.603 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting Test case 001
+13:47:32.683 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+13:47:32.970 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+13:47:32.971 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+13:48:08.513 [main] INFO  testCases.TC_002_LoginDataDriven -  Starting TC_003_LoginDataDrivenTest 
+13:48:09.419 [main] INFO  testCases.TC_002_LoginDataDriven -  Finished TC_003_LoginDataDrivenTest
+13:48:09.422 [main] INFO  testCases.TC_002_LoginDataDriven -  Starting TC_003_LoginDataDrivenTest 
+13:48:29.910 [main] INFO  testCases.TC_002_LoginDataDriven -  Finished TC_003_LoginDataDrivenTest
+13:48:29.911 [main] INFO  testCases.TC_002_LoginDataDriven -  Starting TC_003_LoginDataDrivenTest 
+13:48:50.367 [main] INFO  testCases.TC_002_LoginDataDriven -  Finished TC_003_LoginDataDrivenTest
+13:48:50.369 [main] INFO  testCases.TC_002_LoginDataDriven -  Starting TC_003_LoginDataDrivenTest 
+13:49:10.874 [main] INFO  testCases.TC_002_LoginDataDriven -  Finished TC_003_LoginDataDrivenTest
+13:49:10.876 [main] INFO  testCases.TC_002_LoginDataDriven -  Starting TC_003_LoginDataDrivenTest 
+13:49:11.597 [main] INFO  testCases.TC_002_LoginDataDriven -  Finished TC_003_LoginDataDrivenTest
+13:49:13.858 [main] INFO  testCases.TC_002_LogInTest - Starting Test case 002
+13:49:19.898 [main] INFO  testCases.TC_002_LogInTest - Logout Test executed
+13:49:22.154 [main] INFO  testCases.TC_LG_002LogOutTest - Starting Test case LG_002
+13:49:22.481 [main] INFO  testCases.TC_LG_002LogOutTest - Clicked on the login link
+13:49:22.816 [main] INFO  testCases.TC_LG_002LogOutTest - Login Data entered successfully
+13:49:28.240 [main] INFO  testCases.TC_LG_002LogOutTest - Logout Test executed
+13:49:30.418 [main] INFO  testCases.TC_MonitorDetails - Starting Test case TC_MonitorDetails
+13:49:30.813 [main] INFO  testCases.TC_MonitorDetails - Clicked on the login link
+13:49:31.171 [main] INFO  testCases.TC_MonitorDetails - Login Data entered successfully
+13:49:41.734 [main] INFO  testCases.TC_MonitorDetails - All monitor Details found
+13:50:08.276 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting Test case 001
+13:50:08.385 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+13:50:08.642 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+13:50:08.643 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+13:50:36.971 [main] INFO  testCases.TC_002_LogInTest - Starting Test case 002
+13:50:43.310 [main] INFO  testCases.TC_002_LogInTest - Logout Test executed
+13:50:45.580 [main] INFO  testCases.TC_LG_002LogOutTest - Starting Test case LG_002
+13:50:45.851 [main] INFO  testCases.TC_LG_002LogOutTest - Clicked on the login link
+13:50:46.200 [main] INFO  testCases.TC_LG_002LogOutTest - Login Data entered successfully
+13:50:51.748 [main] INFO  testCases.TC_LG_002LogOutTest - Logout Test executed
+22:13:22.235 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting Test case 001
+22:13:22.375 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+22:13:22.696 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+22:13:22.698 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+22:13:56.542 [main] INFO  testCases.TC_002_LogInTest - Starting Test case 002
+22:14:03.313 [main] INFO  testCases.TC_002_LogInTest - Logout Test executed
+22:14:05.730 [main] INFO  testCases.TC_LG_002LogOutTest - Starting Test case LG_002
+22:14:06.069 [main] INFO  testCases.TC_LG_002LogOutTest - Clicked on the login link
+22:14:06.459 [main] INFO  testCases.TC_LG_002LogOutTest - Login Data entered successfully
+22:14:11.983 [main] INFO  testCases.TC_LG_002LogOutTest - Logout Test executed
+22:15:34.197 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting Test case 001
+22:15:34.313 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+22:15:34.607 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+22:15:34.609 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+22:16:03.020 [main] INFO  testCases.TC_002_LogInTest - Starting Test case 002
+22:16:09.815 [main] INFO  testCases.TC_002_LogInTest - Logout Test executed
+22:16:12.136 [main] INFO  testCases.TC_LG_002LogOutTest - Starting Test case LG_002
+22:16:12.495 [main] INFO  testCases.TC_LG_002LogOutTest - Clicked on the login link
+22:16:12.870 [main] INFO  testCases.TC_LG_002LogOutTest - Login Data entered successfully
+22:16:18.484 [main] INFO  testCases.TC_LG_002LogOutTest - Logout Test executed
+22:19:01.808 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting Test case 001
+22:19:02.371 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+22:19:02.638 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+22:19:02.640 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+22:19:35.364 [main] INFO  testCases.TC_002_LogInTest - Starting Test case 002
+22:19:41.685 [main] INFO  testCases.TC_002_LogInTest - Logout Test executed
+22:19:44.005 [main] INFO  testCases.TC_LG_002LogOutTest - Starting Test case LG_002
+22:19:44.428 [main] INFO  testCases.TC_LG_002LogOutTest - Clicked on the login link
+22:19:44.943 [main] INFO  testCases.TC_LG_002LogOutTest - Login Data entered successfully
+22:19:50.558 [main] INFO  testCases.TC_LG_002LogOutTest - Logout Test executed
+22:20:16.998 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting Test case 001
+22:20:17.151 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+22:20:17.430 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+22:20:17.433 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+22:20:52.344 [main] INFO  testCases.TC_002_LogInTest - Starting Test case 002
+22:20:58.596 [main] INFO  testCases.TC_002_LogInTest - Logout Test executed
+22:21:01.033 [main] INFO  testCases.TC_LG_002LogOutTest - Starting Test case LG_002
+22:21:01.602 [main] INFO  testCases.TC_LG_002LogOutTest - Clicked on the login link
+22:21:02.068 [main] INFO  testCases.TC_LG_002LogOutTest - Login Data entered successfully
+22:21:07.691 [main] INFO  testCases.TC_LG_002LogOutTest - Logout Test executed
+22:33:42.939 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting Test case 001
+22:33:43.035 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+22:33:43.565 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+22:33:43.567 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+22:34:11.536 [main] INFO  testCases.TC_002_LogInTest - Starting Test case 002
+22:34:18.247 [main] INFO  testCases.TC_002_LogInTest - Logout Test executed
+22:34:20.517 [main] INFO  testCases.TC_LG_002LogOutTest - Starting Test case LG_002
+22:34:21.305 [main] INFO  testCases.TC_LG_002LogOutTest - Clicked on the login link
+22:34:21.716 [main] INFO  testCases.TC_LG_002LogOutTest - Login Data entered successfully
+22:34:27.197 [main] INFO  testCases.TC_LG_002LogOutTest - Logout Test executed
